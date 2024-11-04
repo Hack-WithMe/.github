@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to Hack With Me!
 
-**Hack With Me**: A yearly, two-day hackathon where high schoolers team up to create projects and learn coding together. It’s a space where students can bring ideas to life, solve real-world problems, and build coding skills along the way.
+**Hack With Me**: A yearly, 24-hour hackathon where high schoolers team up to create projects and learn coding together. It’s a space where students can bring ideas to life, solve real-world problems, and build coding skills along the way.
 
 ### How to Get Involved
 - **Join as a Participant**: Interested in building something cool? Sign up to be part of the hackathon and team up with other students! 🚀

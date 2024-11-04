@@ -13,7 +13,7 @@
 
 ### License 📜
 
-This project is licensed under the [MIT License](https://github.com/Youth-codecamp/.github/blob/main/profile/LICENSE).
+This project is licensed under the [MIT License](https://github.com/Hack-WithMe/.github/blob/main/LICENSE).
 
 ---
 

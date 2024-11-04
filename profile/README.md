@@ -11,6 +11,10 @@
 - **Project Docs**: Check out our documentation for everything you’ll need to get started. 📚
 - **Event Details**: Stay tuned for announcements on event dates and more! 🗓️
 
+### License 📜
+
+This project is licensed under the [MIT License](https://github.com/Youth-codecamp/.github/blob/main/profile/LICENSE).
+
 ---
 
 > Let’s make amazing things together. Thanks for joining Hack With Me! 🎉
